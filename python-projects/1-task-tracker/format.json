@@ -1,0 +1,7 @@
+{
+  "id": 1,
+  "description": "What is the task",
+  "status": "todo, in-progress, done",
+  "createdAt": "created date",
+  "updatedAt": "modified date"
+}
